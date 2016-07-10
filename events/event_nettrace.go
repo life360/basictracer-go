@@ -1,7 +1,7 @@
 package events
 
 import (
-	"github.com/opentracing/basictracer-go"
+	"github.com/life360/basictracer-go"
 	"golang.org/x/net/trace"
 )
 

@@ -3,7 +3,7 @@ package basictracer
 import (
 	"time"
 
-	opentracing "github.com/opentracing/opentracing-go"
+	opentracing "github.com/life360/opentracing-go"
 )
 
 // RawSpan encapsulates all state associated with a (finished) Span.

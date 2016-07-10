@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/opentracing/basictracer-go"
+	"github.com/life360/basictracer-go"
 )
 
 // TrivialRecorder implements the basictracer.Recorder interface.

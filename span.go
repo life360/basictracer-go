@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/opentracing/opentracing-go/ext"
+	opentracing "github.com/life360/opentracing-go"
+	"github.com/life360/opentracing-go/ext"
 )
 
 // Span provides access to the essential details of the span, for use

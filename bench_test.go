@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	opentracing "github.com/opentracing/opentracing-go"
+	opentracing "github.com/life360/opentracing-go"
 )
 
 var tags []string

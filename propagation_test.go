@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	basictracer "github.com/opentracing/basictracer-go"
-	opentracing "github.com/opentracing/opentracing-go"
+	basictracer "github.com/life360/basictracer-go"
+	opentracing "github.com/life360/opentracing-go"
 )
 
 type verbatimCarrier struct {

@@ -13,9 +13,9 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/opentracing/basictracer-go/examples/dapperish"
-	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/opentracing/opentracing-go/ext"
+	"github.com/life360/basictracer-go/examples/dapperish"
+	opentracing "github.com/life360/opentracing-go"
+	"github.com/life360/opentracing-go/ext"
 )
 
 func client() {

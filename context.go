@@ -3,7 +3,7 @@ package basictracer
 import (
 	"sync"
 
-	"github.com/opentracing/opentracing-go"
+	"github.com/life360/opentracing-go"
 )
 
 // SpanContext holds the basic Span metadata.

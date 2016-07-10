@@ -1,6 +1,6 @@
 package basictracer
 
-import "github.com/opentracing/opentracing-go"
+import "github.com/life360/opentracing-go"
 
 // A SpanEvent is emitted when a mutating command is called on a Span.
 type SpanEvent interface{}

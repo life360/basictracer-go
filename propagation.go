@@ -1,6 +1,6 @@
 package basictracer
 
-import opentracing "github.com/opentracing/opentracing-go"
+import opentracing "github.com/life360/opentracing-go"
 
 type accessorPropagator struct {
 	tracer *tracerImpl

@@ -1,8 +1,8 @@
 package dapperish
 
 import (
-	"github.com/opentracing/basictracer-go"
-	"github.com/opentracing/opentracing-go"
+	"github.com/life360/basictracer-go"
+	"github.com/life360/opentracing-go"
 )
 
 // NewTracer returns a new dapperish Tracer instance.

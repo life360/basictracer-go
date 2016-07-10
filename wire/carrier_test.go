@@ -3,8 +3,8 @@ package wire_test
 import (
 	"testing"
 
-	"github.com/opentracing/basictracer-go"
-	"github.com/opentracing/basictracer-go/wire"
+	"github.com/life360/basictracer-go"
+	"github.com/life360/basictracer-go/wire"
 )
 
 func TestProtobufCarrier(t *testing.T) {

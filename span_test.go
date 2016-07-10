@@ -3,7 +3,7 @@ package basictracer
 import (
 	"testing"
 
-	"github.com/opentracing/opentracing-go/ext"
+	"github.com/life360/opentracing-go/ext"
 	"github.com/stretchr/testify/assert"
 )
 
